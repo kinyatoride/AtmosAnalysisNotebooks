@@ -18,6 +18,9 @@ This repository contains a collection of Jupyter notebooks for hands-on atmosphe
 - [EOF_simple.ipynb](EOF_simple.ipynb): EOF analysis using a simple data
 - [EOF_sst.ipynb](EOF_sst.ipynb): EOF analysis using 2D SST data containing missing values
 
+### Machine Learning
+- [fcnn.ipynb](fcnn.ipynb): Fully connected neural network (FCNN). Forecast Nino 3.4 index using the principal components of SST.
+
 # Data
 - `era5_monthly_sst_5x5.nc`:  ERA5 monthly sea surface temperature (SST) data from ECMWF, interpolated to a 5° × 5° grid. This dataset covers the tropical region (30°S to 30°N) from 1940 to 2023.
 - `era5_nino.csv`: Nino indices calculated by [nino_indices.ipynb](nino_indices.ipynb).
