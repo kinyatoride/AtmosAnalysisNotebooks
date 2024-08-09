@@ -1,7 +1,7 @@
 This repository demonstrates various data analysis methods using Jupyter Notebooks, commonly applied in atmospheric science.
 
 ### Linear regression
-- [regression.ipynb](https://github.com/kinyatoride/general/blob/master/regression.ipynb): one predictor to one predictand
+- [regression.ipynb](regression.ipynb): one predictor to one predictand
 - [regression_multiple.ipynb](https://github.com/kinyatoride/general/blob/master/regression_multiple.ipynb): multiple predictors to one predictant
 - [regression_multiple_multiple.ipynb](https://github.com/kinyatoride/general/blob/master/regression_multiple_to_multiple.ipynb): multiple predictors to multiple predictants
 
